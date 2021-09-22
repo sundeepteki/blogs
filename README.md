@@ -13,7 +13,7 @@
 ### AI for Business
 - [Why Corporate AI Projects Fail? Part 1/4](http://www.sundeepteki.org/blog/why-corporate-ai-projects-fail-part-14)
 - [Why Corporate AI Projects Fail? Part 2/4](http://www.sundeepteki.org/blog/why-corporate-ai-projects-fail-part-24)
-- [http://www.sundeepteki.org/blog/developing-aiml-projects-for-business-best-practices](https://neptune.ai/blog/building-ai-ml-projects-for-business-best-practices)
+- [Developing AI/ML Projects for Business: Best Practices](https://neptune.ai/blog/building-ai-ml-projects-for-business-best-practices)
 - [How to Build Machine Learning Teams that Deliver](http://neptune.ai/blog/how-to-build-machine-learning-teams-that-deliver)
 
 ### Applied AI
