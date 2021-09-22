@@ -15,7 +15,12 @@
 - [Why Corporate AI Projects Fail? Part 2/4](http://www.sundeepteki.org/blog/why-corporate-ai-projects-fail-part-24)
 - [Developing AI/ML Projects for Business: Best Practices](https://neptune.ai/blog/building-ai-ml-projects-for-business-best-practices)
 - [How to Build Machine Learning Teams that Deliver](http://neptune.ai/blog/how-to-build-machine-learning-teams-that-deliver)
+- [Reskilling India for an AI-First Economy](http://www.businessworld.in/article/Reskilling-India-For-An-AI-first-Economy-/24-11-2020-346128/)
 
 ### Applied AI
 
 - [Best Practices for Improving Machine Learning and Deep Learning Models](https://neptune.ai/blog/improving-machine-learning-deep-learning-models)
+- [tldr: AI for Text Summarization and Generation of tldrs](https://towardsdatascience.com/too-long-didnt-read-ai-for-text-summarization-and-generation-of-tldrs-dc020590aed8)
+- [Covid or just a Cough? AI for Detecting Covid-19 from Cough Sounds](https://www.kdnuggets.com/2020/12/covid-cough-ai-detecting-sounds.html)
+- [Fact-checking Covid-19 Fake News](https://towardsdatascience.com/fact-checking-covid-19-fake-news-ae49c8d667e2)
+- [AI-enabled Conversations with Analytics Tables](https://towardsdatascience.com/ai-enabled-conversations-with-analytics-tables-66a10c9a3d05)
