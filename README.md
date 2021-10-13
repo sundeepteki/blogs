@@ -19,6 +19,7 @@
 
 ### Applied AI
 
+- [Knowledge Distillation](https://neptune.ai/blog/knowledge-distillation)
 - [Best Practices for Improving Machine Learning and Deep Learning Models](https://neptune.ai/blog/improving-machine-learning-deep-learning-models)
 - [tldr: AI for Text Summarization and Generation of tldrs](https://towardsdatascience.com/too-long-didnt-read-ai-for-text-summarization-and-generation-of-tldrs-dc020590aed8)
 - [Covid or just a Cough? AI for Detecting Covid-19 from Cough Sounds](https://www.kdnuggets.com/2020/12/covid-cough-ai-detecting-sounds.html)
