@@ -19,6 +19,7 @@
 
 ### Applied AI
 
+- [ML Engineer vs Data Scientist](https://www.sundeepteki.org/blog/ml-engineer-vs-data-scientist)
 - [Knowledge Distillation](https://neptune.ai/blog/knowledge-distillation)
 - [Best Practices for Improving Machine Learning and Deep Learning Models](https://neptune.ai/blog/improving-machine-learning-deep-learning-models)
 - [tldr: AI for Text Summarization and Generation of tldrs](https://towardsdatascience.com/too-long-didnt-read-ai-for-text-summarization-and-generation-of-tldrs-dc020590aed8)
