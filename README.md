@@ -18,7 +18,7 @@
 - [Reskilling India for an AI-First Economy](http://www.businessworld.in/article/Reskilling-India-For-An-AI-first-Economy-/24-11-2020-346128/)
 
 ### Applied AI
-
+- [Data Drift: The Unsung Hero Combating Data Drift](https://www.sundeepteki.org/blog/data-labeling-the-unsung-hero-combating-data-drift)
 - [ML Engineer vs Data Scientist](https://www.sundeepteki.org/blog/ml-engineer-vs-data-scientist)
 - [Knowledge Distillation](https://neptune.ai/blog/knowledge-distillation)
 - [Best Practices for Improving Machine Learning and Deep Learning Models](https://neptune.ai/blog/improving-machine-learning-deep-learning-models)
