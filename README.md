@@ -29,6 +29,7 @@
 - [AI-enabled Conversations with Analytics Tables](https://towardsdatascience.com/ai-enabled-conversations-with-analytics-tables-66a10c9a3d05)
 
 ### Data
+- [Understanding and Measuring Data Quality](http://www.sundeepteki.org/blog/understanding-and-measuring-data-quality)
 - [How to ensure Data Quality through Data Governance](http://www.sundeepteki.org/blog/how-to-ensure-data-quality-through-governance)
 - [Why Data Democratization is important to your Business](https://www.sundeepteki.org/blog/why-data-democratization-is-important-to-your-business)
 - [The Metric Layer and how it fits into the Modern Data Stack](http://www.sundeepteki.org/blog/the-metric-layer-how-it-fits-into-the-modern-data-stack)
