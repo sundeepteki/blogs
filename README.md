@@ -1,4 +1,4 @@
-# Blog - AI, Product, Leadership
+# Blog - AI, Data, Leadership
 
 <br>
 
