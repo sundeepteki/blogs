@@ -14,8 +14,8 @@
 - [Why Corporate AI Projects Fail? Part 1/4](http://www.sundeepteki.org/blog/why-corporate-ai-projects-fail-part-14)
 - [Why Corporate AI Projects Fail? Part 2/4](http://www.sundeepteki.org/blog/why-corporate-ai-projects-fail-part-24)
 - [Benefits of FAANG companies for Data Science & ML roles](http://www.sundeepteki.org/blog/five-5-minutes-team-building-activities-for-remote-teams)
-- [Developing AI/ML Projects for Business: Best Practices](https://neptune.ai/blog/building-ai-ml-projects-for-business-best-practices)
-- [How to Build Machine Learning Teams that Deliver](http://neptune.ai/blog/how-to-build-machine-learning-teams-that-deliver)
+- [Developing AI/ML Projects for Business: Best Practices]([https://neptune.ai/blog/building-ai-ml-projects-for-business-best-practices](https://www.sundeepteki.org/blog/developing-aiml-projects-for-business-best-practices))
+- [How to Build Machine Learning Teams that Deliver]([http://neptune.ai/blog/how-to-build-machine-learning-teams-that-deliver](https://www.sundeepteki.org/blog/how-to-build-machine-learning-teams-that-deliver))
 - [Reskilling India for an AI-First Economy](http://www.businessworld.in/article/Reskilling-India-For-An-AI-first-Economy-/24-11-2020-346128/)
 
 ### Applied AI
