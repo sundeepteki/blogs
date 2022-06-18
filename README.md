@@ -19,6 +19,7 @@
 - [Reskilling India for an AI-First Economy](http://www.businessworld.in/article/Reskilling-India-For-An-AI-first-Economy-/24-11-2020-346128/)
 
 ### Applied AI
+- [How to Generate Synthetic Data for Machine Learning Projects](http://www.sundeepteki.org/blog/how-to-generate-synthetic-data-for-machine-learning-projects)
 - [Benefits of FAANG companies for Data Science & ML roles](http://www.sundeepteki.org/blog/five-5-minutes-team-building-activities-for-remote-teams)
 - [Data Labeling and Relabeling in Data Science](http://www.sundeepteki.org/blog/data-labelling-and-relabelling-in-data-science)
 - [Surefire Ways to Identify Data Drift](http://www.sundeepteki.org/blog/surefire-ways-to-identify-data-drift)
@@ -38,6 +39,7 @@
 - [How to ensure Data Quality through Data Governance](http://www.sundeepteki.org/blog/how-to-ensure-data-quality-through-governance)
 - [Why Data Democratization is important to your Business](https://www.sundeepteki.org/blog/why-data-democratization-is-important-to-your-business)
 - [The Metric Layer and how it fits into the Modern Data Stack](http://www.sundeepteki.org/blog/the-metric-layer-how-it-fits-into-the-modern-data-stack)
+- [Using Bash to Read Files](https://www.sundeepteki.org/blog/using-bash-to-read-files)
 
 ### Leadership
 - [Effective Communication between Scientists and Non-scientists](http://www.sundeepteki.org/blog/effective-communication-between-scientists-and-non-scientists)
