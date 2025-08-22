@@ -8,10 +8,6 @@
 <br>
 </div>
 
-<br>
-
-===
-
 ## AI: Industry & Use Cases
 - [The GenAI Divide: Why 95% of AI Investments Fail?](https://www.sundeepteki.org/blog/the-genai-divide-why-95-of-ai-investments-fail)
 - [Forward Deployed Engineer](https://www.sundeepteki.org/blog/forwarded-deployed-engineer)
